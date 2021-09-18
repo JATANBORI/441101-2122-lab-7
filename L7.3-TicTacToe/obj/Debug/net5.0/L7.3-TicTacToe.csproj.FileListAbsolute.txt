@@ -1,0 +1,16 @@
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice7\practice-lab-7-ATANBORI\L7.3-TicTacToe\obj\Debug\net5.0\L7.3-TicTacToe.csprojAssemblyReference.cache
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice7\practice-lab-7-ATANBORI\L7.3-TicTacToe\obj\Debug\net5.0\L7.3-TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice7\practice-lab-7-ATANBORI\L7.3-TicTacToe\obj\Debug\net5.0\L7.3-TicTacToe.AssemblyInfoInputs.cache
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice7\practice-lab-7-ATANBORI\L7.3-TicTacToe\obj\Debug\net5.0\L7.3-TicTacToe.AssemblyInfo.cs
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice7\practice-lab-7-ATANBORI\L7.3-TicTacToe\obj\Debug\net5.0\L7.3-TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice7\practice-lab-7-ATANBORI\L7.3-TicTacToe\bin\Debug\net5.0\L7.3-TicTacToe.exe
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice7\practice-lab-7-ATANBORI\L7.3-TicTacToe\bin\Debug\net5.0\L7.3-TicTacToe.deps.json
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice7\practice-lab-7-ATANBORI\L7.3-TicTacToe\bin\Debug\net5.0\L7.3-TicTacToe.runtimeconfig.json
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice7\practice-lab-7-ATANBORI\L7.3-TicTacToe\bin\Debug\net5.0\L7.3-TicTacToe.runtimeconfig.dev.json
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice7\practice-lab-7-ATANBORI\L7.3-TicTacToe\bin\Debug\net5.0\L7.3-TicTacToe.dll
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice7\practice-lab-7-ATANBORI\L7.3-TicTacToe\bin\Debug\net5.0\ref\L7.3-TicTacToe.dll
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice7\practice-lab-7-ATANBORI\L7.3-TicTacToe\bin\Debug\net5.0\L7.3-TicTacToe.pdb
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice7\practice-lab-7-ATANBORI\L7.3-TicTacToe\obj\Debug\net5.0\L7.3-TicTacToe.dll
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice7\practice-lab-7-ATANBORI\L7.3-TicTacToe\obj\Debug\net5.0\ref\L7.3-TicTacToe.dll
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice7\practice-lab-7-ATANBORI\L7.3-TicTacToe\obj\Debug\net5.0\L7.3-TicTacToe.pdb
+C:\Users\625593\Desktop\Transforming Programmes\Programming Portfolio - Spec\Notes\Lectures\T1\Labs\codes\Practice7\practice-lab-7-ATANBORI\L7.3-TicTacToe\obj\Debug\net5.0\L7.3-TicTacToe.genruntimeconfig.cache
